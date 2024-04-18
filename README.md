@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Haruka.
 
 - 🌱 I'm currently learning Python and TypeScript.
+- 🔭 I'm a network operator of [AS197860](https://bgp.tools/as/197860)
 
 ### These are what I'm coding with
 
@@ -12,10 +13,7 @@
 
 ---
 
-[![DyAxy's GitHub stats](https://github-readme-stauts-nine.vercel.app/api?username=dyaxy&show_icons=true)
-](https://github.com/anuraghazra/github-readme-stats)
-[![DyAxy's Top Langs](https://github-readme-stauts-nine.vercel.app/api/top-langs/?username=dyaxy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![DyAxy's GitHub stats](https://github-readme-stauts-nine.vercel.app/api?username=dyaxy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![DyAxy's Top Langs](https://github-readme-stauts-nine.vercel.app/api/top-langs/?username=dyaxy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **DyAxy/DyAxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
